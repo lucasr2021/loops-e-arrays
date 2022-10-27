@@ -7,7 +7,7 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 
 <h2>
 🛑 Pré-requistos
-</h2>
+</h2> 
 
 - [x] Java JDK 11
 - [x] IDE para desenvolvimento Java 
